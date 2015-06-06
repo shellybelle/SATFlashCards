@@ -1,0 +1,4 @@
+﻿CREATE TABLE [dbo].[SATWords]
+(
+	[Id] INT NOT NULL PRIMARY KEY
+)
